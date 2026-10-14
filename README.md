@@ -21,14 +21,6 @@ I'm passionate about software development, automation, and understanding how sof
 - **Operating Systems:** Windows, Linux fundamentals
 - **AI / ML:** TensorFlow Lite, ONNX Runtime fundamentals
 
-## 📂 Projects
-
-### 1. Python Programming Practice
-A collection of Python programs covering functions, loops, strings, lists, dictionaries, and problem-solving exercises.
-
-### 2. Docker Python Application
-A Python application packaged into a Docker container to practice Dockerfiles, images, containers, and port mapping.
-
 
 ## 🎯 Current Goals
 
